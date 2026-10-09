@@ -1,6 +1,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:3" />
 </h1>
+
+```
+ _   _      _ _                             _     _ _
+| | | | ___| | | ___    __      _____  _ __| | __| | |                        ＼　　ヽ　　　　i　　|　　　　 /　　　/
+| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |                 ＼              
+|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|                                  ;' ':;,　　　　 ,;'':;,
+|_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_(_）          -                     ;'　　 ':;,.,.,;;     ;;
+                    |/                                           --                  ,:'　　　　　　　　 　   ::::::､
+                                                                                  ,:' ／ 　 　　　　 ＼ 　　   :::::',
+                                                                                 :'　  ⚪　　　　　 ⚪　       ::::::i.
+                                                                                 :`                          ::::::::i
+                                                                                  ;　 '''　(_人_)　　''''     :::::::i
+                                                                                   :　 　　　　　　　　　     ::::::i
+                                                                                    `:,､ 　　　　　 　 　  :::::::
+                                                                                   ,:'　　　　　　　  :::::::::::
+
+
+    
+```
 <br>Hello! I’m Shreya ^_^, a 20 y.o CS undergrad. I’m a curious person who loves solving problems and exploring how things work.<br>
 I’m currently learning DSA, full-stack development, and system design, while building projects that help me understand how things actually work rather than just following tutorials.
 <br><br>If you find something interesting in my repositories, feel free to look around! :3
